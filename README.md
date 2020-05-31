@@ -1,2 +1,2 @@
-# my_first_repo
-This is a change on my README
+# hyperblog
+Un blog increíble para el curso de Git y GitHub de Platzi
